@@ -1,0 +1,22 @@
+{
+  "name": "reptest",
+  "version": "1.0.0",
+  "description": "this is a github rep test...",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citcon-XiaomingZhu/reptest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/citcon-XiaomingZhu/reptest/issues"
+  },
+  "homepage": "https://github.com/citcon-XiaomingZhu/reptest#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
